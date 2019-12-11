@@ -1,0 +1,14 @@
+{
+  "name": "12345",
+  "version": "1.0.0",
+  "description": "testProject",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "oleh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
